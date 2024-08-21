@@ -1,6 +1,6 @@
 ## ABOUT ME
 I'm 20 years old boy and I recently started programming.<br/>
-Currently studying like hell to improve my skills (C, HTML, CSS, and JS at the moment).<br/>
+Currently studying like hell to improve my skills (C, HTML, CSS, and Python at the moment).<br/>
 Good fluency in English due to some speaker friends on internet (and 4 years taking a face to face course).<br/>
 I live in Rio de Janeiro, Brazil.<br/>
 ## HOBBIES
