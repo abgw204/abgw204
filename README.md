@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Gabriel!
+# Hey, I'm Gabriel!
 
 I'm a 21-year-old software engineering student from Rio de Janeiro, Brazil.  
 I started programming last year and quickly fell in love with the craft of building things through code.
